@@ -8,8 +8,11 @@ Example Node + Splunk + Docker
 ```
 
 ### Docker compose
-`docker-compose up`
+```
+    docker-compose up
+```
 
 ### URL
 [Api](http://localhost:5000/)
+
 [Splunk](http://localhost:8000/)
