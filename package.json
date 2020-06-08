@@ -9,10 +9,8 @@
   "author": "André Soares",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.17.1",
     "winston": "^3.2.1",
-    "winston-splunk-http-transport": "^1.0.4",
     "winston-splunk-httplogger": "^2.3.1"
   }
 }
